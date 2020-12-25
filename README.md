@@ -6,5 +6,5 @@ After a recent update of an ESPON printer, my third-party ink cartridges are not
 
 ## Links
 
-[Matt's collection of XP Series firmwares](https://mattpilz.com/how-to-downgrade-epson-xp-printer-firmware-fix-ink-not-recognized-error-xp-300-to-xp-640/)
-[Class Action Claims Epson Software Updates ‘Effectively Ruined’ Printers Using Third-Party Ink Cartridges](https://www.classaction.org/blog/class-action-claims-epson-software-updates-effectively-ruined-printers-using-third-party-ink-cartridges)
+- [Matt's collection of XP Series firmwares](https://mattpilz.com/how-to-downgrade-epson-xp-printer-firmware-fix-ink-not-recognized-error-xp-300-to-xp-640/)
+- [Class Action Claims Epson Software Updates ‘Effectively Ruined’ Printers Using Third-Party Ink Cartridges](https://www.classaction.org/blog/class-action-claims-epson-software-updates-effectively-ruined-printers-using-third-party-ink-cartridges)
